@@ -1,4 +1,4 @@
-# 方圆小站Github仓库
+# 曲宝的博客备份
 
 ---start---
 ## 目录(2023年07月06日更新)
@@ -6,12 +6,6 @@
 
 ---end---
 
-
-## 2022年7月10日更新(Star破百纪念更新)
-
-- 支持中文文件名, 由于WordPress本身的限制,文件名不要超过20个中文汉字(超过后会被默认WordPress配置截断, Star破200, 我会出一个突破20字符的方案), 比如: `2022-07-10-17-02-23-面试官应该给有潜力的面试者更多鼓励`(这算是17个中文字符)
-
-![支持中文](https://cdn.fangyuanxiaozhan.com/assets/1657446551834PbkyDEWh.png)
 
 ## 用Github Actions写Markdown文章，自动更新到WordPress
 
@@ -32,18 +26,11 @@
 
 
 
-程序永久开源更新地址
-
-[https://github.com/zhaoolee/WordPressXMLRPCTools](https://github.com/zhaoolee/WordPressXMLRPCTools)
-
-
-
-
 ### 如何实现WordPress登录授权？
 
 WordPress默认开启了xmlrpc服务，xmlrpc是一套的统用的博客更新标准，允许用户以POST方式自动对文章内容进行增删改查。授权方式为 用户名 和 密码, 在WordPress中是后台登录的账户名和密码
 
-我的WordPress网站为 [https://fangyuanxiaozhan.com](https://fangyuanxiaozhan.com) 
+假设WordPress网站为 [https://fangyuanxiaozhan.com](https://fangyuanxiaozhan.com) 
 
 ![image-20210119180338929](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123033711jFFFRE3D.png)
 
@@ -204,17 +191,4 @@ git pull && git add _posts && git commit -m "update" && git push
 
 Pocket Git 和 MT管理器可以配合完成Git 文件的新增更新和上传。
 
-
-
-
-
-### 程序永久开源更新地址(求Star):
-
-
-
-[https://github.com/zhaoolee/WordPressXMLRPCTools](https://github.com/zhaoolee/WordPressXMLRPCTools)
-
-
-
-当我们把毕生所学，通过几十年如一日的博客更新，逐步开源到互联网上时，必将会造福更多志同道合的人。
 
