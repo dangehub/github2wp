@@ -2,6 +2,8 @@
 
 ---start---
 ## 目录(2023年07月06日更新)
+[](https://blogs.qudange.top/p/2023-07-06/)
+
 [测试github2wordpress](https://blogs.qudange.top/p/2023-07-06-test/)
 
 ---end---
