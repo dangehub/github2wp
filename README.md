@@ -1,7 +1,9 @@
 # 曲宝的博客备份
 
 ---start---
-## 目录(2023年07月06日更新)
+## 目录(2023年07月07日更新)
+[标题](https://blogs.qudange.top/p/安卓使用 Thanox 实现安装新应用自动加入 Magisk 的 Denylist（Shamiko 实现）/)
+
 [测试github2wordpress](https://blogs.qudange.top/p/2023-07-06-test/)
 
 ---end---
