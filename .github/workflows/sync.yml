@@ -19,10 +19,7 @@ jobs:
           ref: main
           token: ${{ secrets.ACCESS_TOKEN }}
           
-      - name: Checkout repos
-        run: |
-          ls -al
-          echo "repo exists: ${{ exists('github2wp') }}"
+
           
       - name: Checkout b repo
         uses: actions/checkout@v3
@@ -32,10 +29,7 @@ jobs:
           ref: master
           token: ${{ secrets.ACCESS_TOKEN }}
           
-      - name: Checkout repos
-        run: |
-          ls -al
-          echo "repo exists: ${{ exists('dangehub.github.io') }}"
+
           
       - name: Copy files from a to b local
         run: |
