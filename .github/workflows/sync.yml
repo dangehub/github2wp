@@ -35,6 +35,6 @@ jobs:
       - name: Commit and push
         run: |
           cd ./dangehub.github.io
-          git add dangehub.github.io/_posts/
+          git add -A
           git commit -m "Synced posts" || exit 0
           git push
