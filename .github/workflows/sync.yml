@@ -14,7 +14,7 @@ jobs:
       - name: Checkout b repo
         uses: actions/checkout@v3
         with:
-          repository: github2wp
+          repository: dangehub/github2wp
           ref: main
           token: ${{ secrets.ACCESS_TOKEN }}
       - name: Push to b repo
