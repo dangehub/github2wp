@@ -39,9 +39,6 @@ jobs:
           
       - name: Commit and push
         run: |
-          git init
-          git config --global user.name 'dangehub'
-          git config --global user.email 'moruotaiqing@gmail.com'
           git add _posts/
           git commit -m "Synced posts" || exit 0
           git push
