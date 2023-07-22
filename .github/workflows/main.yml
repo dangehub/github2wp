@@ -4,7 +4,7 @@ on:
     branches:    
       - main
     paths:
-      - '_post/*.md'
+      - '_post/**.md'
 jobs:
   push:
       runs-on: ${{ matrix.operating-system }}
