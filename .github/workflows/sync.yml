@@ -11,6 +11,12 @@ jobs:
   push-to-b-repo:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout b repo
+        uses: actions/checkout@v3
+        with:
+          repository: github2wp
+          ref: main
+          token: ${{ secrets.ACCESS_TOKEN }}
       - name: Push to b repo
         uses: cpina/github-action-push-to-another-repository@main
         env:
