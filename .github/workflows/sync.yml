@@ -1,22 +1,23 @@
 name: Push to Another Repository
-
-# 触发条件，可根据需要进行调整
 on:
- push:
-   branches:
-     - main
+  push:
+    paths:
+      - '_post/*.md'
 
 jobs:
- build:
-   runs-on: ubuntu-latest
-
-   steps:
-     - name: Checkout code
-       uses: actions/checkout@v2
-
-     - name: Push to another repository
-       env:
-         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-       run: |
-         git remote add target https://github.com/dangehub/dangehub.github.io/tree/master/_posts
-         git push target HEAD:dangehub/github2wp/tree/main/_posts
+  push-to-b-repo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout b repo
+        uses: actions/checkout@v2
+        with:
+          repository: dangehub/dangehub.github.io
+          ref: main
+          token: ${{ secrets.ACCESS_TOKEN }}
+      - name: Push to b repo
+        uses: cpina/github-action-push-to-another-repository@v2.1.0
+        with:
+          source-directory: _post/
+          destination-repository: dangehub/dangehub.github.io
+          destination-branch: main
+          github-token: ${{ secrets.ACCESS_TOKEN }}
