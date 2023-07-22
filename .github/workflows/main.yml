@@ -1,4 +1,4 @@
-name: fangyuanxiaozhan
+name: sync2wordpress
 on:
   push:
     branches:    
