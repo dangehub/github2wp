@@ -34,11 +34,12 @@ jobs:
       - name: Copy files from a to b local
         run: |
           cp -r github2wp/_posts/* dangehub.github.io/_posts/       
-          cd dangehub.github.io
+
            
           
       - name: Commit and push
         run: |
+          cd dangehub.github.io
           git add _posts/
           git commit -m "Synced posts" || exit 0
           git push
