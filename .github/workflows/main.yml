@@ -3,6 +3,8 @@ on:
   push:
     branches:    
       - main
+    paths:
+      - '_post/*.md'
 jobs:
   push:
       runs-on: ${{ matrix.operating-system }}
