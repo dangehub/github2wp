@@ -16,7 +16,7 @@ jobs:
 
      - name: Push to another repository
        env:
-         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+         ACCESS_TOKEN: ${{ secrets_ACCESS_TOKEN }}
        run: |
          git remote add target https://github.com/dangehub/dangehub.github.io/tree/master/_posts
          git push target HEAD:dangehub/github2wp/tree/main/_posts
