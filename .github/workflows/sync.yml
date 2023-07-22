@@ -17,7 +17,7 @@ jobs:
           ref: main
           token: ${{ secrets.ACCESS_TOKEN }}
       - name: Push to b repo
-        uses: cpina/github-action-push-to-another-repository@v2.1.0
+        uses: cpina/github-action-push-to-another-repository@v1.7.2
         with:
           source-directory: _post/
           destination-repository: dangehub/dangehub.github.io
