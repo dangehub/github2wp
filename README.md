@@ -9,6 +9,16 @@
 [测试github2wordpress](https://blogs.qudange.top/p/2023-07-06-test/)
 
 ---end---
+## 项目介绍
+
+平时用obsidian写东西，整理好后发布到github上，通过github pages做一个静态博客，然后用github action同步到自建博客上。
+obsidian作为一个好用的编辑器，自建博客的功能更完善，而github pages做永久备份。
+
+## 博客地址
+
+我的wordpress：https://blogs.qudange.top
+
+我的github blog： https://dangehub.github.io
 
 ## obsidian端设置
 1. 安装插件`Github Publisher`
