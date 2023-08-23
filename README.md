@@ -10,6 +10,28 @@
 
 ---end---
 
+## obsidian端设置
+1. 安装插件`Github Publisher`
+2. 配置插件：其他保持不动，修改以下选项
+    - Repository Nmae: <github2wp>
+    - GitHub Username: <your github name>
+    - Github Token: <your github token>
+    - Default Folder: _posts  #此选项位于Upload configuration中
+3. 使用方法：在obsidian的文章yaml区中加入字段`share: true`，然后执行obsidian命令`Github Publisher:Upload single current active note`
+
+ps：只要是能发布到github，其实什么插件都行，不用插件直接用git也行。不过这个插件能够检测所有打了share标记的文章，并且能只上传修改过的文章，比git用起来更省心。可以将常用的yaml头做成obsidian模板，这里也附上我的模板：
+
+```
+---
+share: true 
+title: 标题
+tags: 
+- geek
+categories:
+- Github
+---
+
+```
 
 ## 用Github Actions写Markdown文章，自动更新到WordPress
 
@@ -181,15 +203,6 @@ git pull && git add _posts && git commit -m "update" && git push
 
 
 
-## 如何用手机完成博客更新操作？
-
-
-
-![微信图片_20210119192838](https://raw.githubusercontent.com/zhaoolee/WordPressXMLRPCTools/master/README/1611123036503KhBJRrpj.jpeg)
-
-用锤子便签，可以优雅舒适地写Markdown，手机App很好用，还有网页版可以用，有5GB的免费空间，能写到锤子倒闭。
-
-如果遇到插入图片的问题，可以使用 免费图床图壳
 
 [https://imgkr.com/#upload](https://imgkr.com/#upload)
 
