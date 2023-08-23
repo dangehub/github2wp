@@ -50,7 +50,7 @@ categories:
 
 - 管理博客站最省心的方式是WordPress；
 
-- 推广博客站最好的平台是Github；
+- 最稳定的博客是Github；
 
 
 
