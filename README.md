@@ -1,8 +1,10 @@
 # 曲宝的博客备份
 
 ---start---
-## 目录(2023年08月23日更新)
+## 目录(2024年04月01日更新)
 [安卓透明代理，上手 box for magisk](https://blogs.qudange.top/p/上手 box for magisk/)
+
+[三星浏览器调教记录](https://blogs.qudange.top/p/2024-04-01-samsung/)
 
 [安卓使用 Thanox 实现安装新应用自动加入 Magisk 的 Denylist（Shamiko 实现）](https://blogs.qudange.top/p/2023-07-07-magisk/)
 
