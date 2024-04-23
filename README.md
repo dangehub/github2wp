@@ -1,8 +1,10 @@
 # 曲宝的博客备份
 
 ---start---
-## 目录(2024年04月01日更新)
+## 目录(2024年04月23日更新)
 [安卓透明代理，上手 box for magisk](https://blogs.qudange.top/p/上手 box for magisk/)
+
+[wordpress导入rss以同步全平台](https://blogs.qudange.top/p/2024-04-23-wordpress导入rss以同步全平台/)
 
 [三星浏览器调教记录](https://blogs.qudange.top/p/2024-04-01-samsung/)
 
