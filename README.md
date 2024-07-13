@@ -2,6 +2,9 @@
 
 ---start---
 ## 目录(2024年07月13日更新)
+[安卓透明代理，上手 box for magisk](https://blogs.qudange.top/p/上手 box for magisk/)
+
+[下载网易云音乐的双语歌词](https://blogs.qudange.top/p/2024-07-13-how-to-download-the-lyrics/)
 
 [安卓端用tasker实现ai总结b站](https://blogs.qudange.top/p/2024-07-13-android_tasker_ai_summary/)
 
