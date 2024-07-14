@@ -2,12 +2,6 @@
 
 ---start---
 ## 目录(2024年07月14日更新)
-[安卓使用 Thanox 实现安装新应用自动加入 Magisk 的 Denylist（Shamiko 实现）](https://blogs.qudange.top/p/安卓使用 Thanox 实现安装新应用自动加入 Magisk 的 Denylist（Shamiko 实现）/)
-
-[安卓透明代理，上手 box for magisk](https://blogs.qudange.top/p/上手 box for magisk/)
-
-[三星浏览器调教记录](https://blogs.qudange.top/p/三星浏览器调教记录/)
-
 [obcsapi —— 最好的obsidian工具（需要云部署）](https://blogs.qudange.top/p/2024-07-14-obcsapi/)
 
 [安卓透明代理，上手 box for magisk](https://blogs.qudange.top/p/2024-07-14-box-for-magisk/)
