@@ -2,15 +2,23 @@
 
 ---start---
 ## 目录(2024年07月14日更新)
+[安卓使用 Thanox 实现安装新应用自动加入 Magisk 的 Denylist（Shamiko 实现）](https://blogs.qudange.top/p/安卓使用 Thanox 实现安装新应用自动加入 Magisk 的 Denylist（Shamiko 实现）/)
+
 [安卓透明代理，上手 box for magisk](https://blogs.qudange.top/p/上手 box for magisk/)
 
+[三星浏览器调教记录](https://blogs.qudange.top/p/三星浏览器调教记录/)
+
 [obcsapi —— 最好的obsidian工具（需要云部署）](https://blogs.qudange.top/p/2024-07-14-obcsapi/)
+
+[安卓透明代理，上手 box for magisk](https://blogs.qudange.top/p/2024-07-14-box-for-magisk/)
 
 [下载网易云音乐的双语歌词](https://blogs.qudange.top/p/2024-07-13-how-to-download-the-lyrics/)
 
 [安卓端用tasker实现ai总结b站](https://blogs.qudange.top/p/2024-07-13-android_tasker_ai_summary/)
 
 [wordpress导入rss以同步全平台](https://blogs.qudange.top/p/2024-04-23-wordpress导入rss以同步全平台/)
+
+[标题](https://blogs.qudange.top/p/2024-04-23-1/)
 
 [三星浏览器调教记录](https://blogs.qudange.top/p/2024-04-01-samsung/)
 
