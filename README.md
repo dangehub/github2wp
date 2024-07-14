@@ -1,8 +1,10 @@
 # 曲宝的博客备份
 
 ---start---
-## 目录(2024年07月13日更新)
+## 目录(2024年07月14日更新)
 [安卓透明代理，上手 box for magisk](https://blogs.qudange.top/p/上手 box for magisk/)
+
+[obcsapi —— 最好的obsidian工具（需要云部署）](https://blogs.qudange.top/p/2024-07-14-obcsapi/)
 
 [下载网易云音乐的双语歌词](https://blogs.qudange.top/p/2024-07-13-how-to-download-the-lyrics/)
 
