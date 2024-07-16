@@ -1,7 +1,9 @@
 # 曲宝的博客备份
 
 ---start---
-## 目录(2024年07月15日更新)
+## 目录(2024年07月16日更新)
+[语音笔记AudioPen的“平替”](https://blogs.qudange.top/p/2024-07-16-audiopen-substitute/)
+
 [AudioPen：让Ai帮你整理碎碎念，语音转书面化文字的利器](https://blogs.qudange.top/p/2024-07-15-audiopen/)
 
 [obcsapi —— 最好的obsidian工具（需要云部署）](https://blogs.qudange.top/p/2024-07-14-obcsapi/)
