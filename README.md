@@ -1,7 +1,9 @@
 # 曲宝的博客备份
 
 ---start---
-## 目录(2024年07月16日更新)
+## 目录(2024年08月06日更新)
+[用 n8n 实现三步翻译](https://blogs.qudange.top/p/2024-08-07-n8n_3steps_translate/)
+
 [语音笔记AudioPen的“平替”](https://blogs.qudange.top/p/2024-07-16-audiopen-substitute/)
 
 [AudioPen：让Ai帮你整理碎碎念，语音转书面化文字的利器](https://blogs.qudange.top/p/2024-07-15-audiopen/)
