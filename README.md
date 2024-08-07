@@ -1,7 +1,7 @@
 # 曲宝的博客备份
 
 ---start---
-## 目录(2024年08月06日更新)
+## 目录(2024年08月07日更新)
 [用 n8n 实现三步翻译](https://blogs.qudange.top/p/2024-08-07-n8n_3steps_translate/)
 
 [语音笔记AudioPen的“平替”](https://blogs.qudange.top/p/2024-07-16-audiopen-substitute/)
@@ -12,7 +12,7 @@
 
 [安卓透明代理，上手 box for magisk](https://blogs.qudange.top/p/2024-07-14-box-for-magisk/)
 
-[下载网易云音乐的双语歌词](https://blogs.qudange.top/p/2024-07-13-how-to-download-the-lyrics/)
+[如何下载网易云音乐的普通歌词与双语歌词](https://blogs.qudange.top/p/2024-07-13-how-to-download-the-lyrics/)
 
 [安卓端用tasker实现ai总结b站](https://blogs.qudange.top/p/2024-07-13-android_tasker_ai_summary/)
 
