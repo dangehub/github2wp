@@ -1,4 +1,4 @@
-name: Push to Another Repository
+name: Push to Digital Garden
 on:
   workflow_dispatch:
   push:
