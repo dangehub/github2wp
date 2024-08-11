@@ -32,6 +32,16 @@
 
 [测试github2wordpress](https://blogs.qudange.top/p/%E6%B5%8B%E8%AF%95github2wordpress)
 
+[](https://blogs.qudange.top/p/)
+
+[Obsidian 实现复制时自动上传图片到图床](https://blogs.qudange.top/p/Obsidian%20%E5%AE%9E%E7%8E%B0%E5%A4%8D%E5%88%B6%E6%97%B6%E8%87%AA%E5%8A%A8%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87%E5%88%B0%E5%9B%BE%E5%BA%8A)
+
+[Obsidian tar插件实现obsidian内部集成LLM对话](https://blogs.qudange.top/p/Obsidian%20tar%E6%8F%92%E4%BB%B6%E5%AE%9E%E7%8E%B0obsidian%E5%86%85%E9%83%A8%E9%9B%86%E6%88%90LLM%E5%AF%B9%E8%AF%9D)
+
+[](https://blogs.qudange.top/p/)
+
+[测试新脚本 子目录能否正常同步](https://blogs.qudange.top/p/%E6%B5%8B%E8%AF%95%E6%96%B0%E8%84%9A%E6%9C%AC%20%E5%AD%90%E7%9B%AE%E5%BD%95%E8%83%BD%E5%90%A6%E6%AD%A3%E5%B8%B8%E5%90%8C%E6%AD%A5)
+
 ---end---
 ## 项目介绍
 
