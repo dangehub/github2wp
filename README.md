@@ -2,6 +2,8 @@
 
 ---start---
 ## 目录(2024年08月11日更新)
+[Obsidian tar插件实现obsidian内部集成LLM对话](https://blogs.qudange.top/p/Obsidian tar插件实现obsidian内部集成LLM对话/)
+
 [Obsidian 实现复制时自动上传图片到图床](https://blogs.qudange.top/p/2024-08-11-obsidian-pic-upload/)
 
 [用 n8n 实现三步翻译](https://blogs.qudange.top/p/2024-08-07-n8n_3steps_translate/)
