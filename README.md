@@ -1,7 +1,7 @@
 # 曲宝的博客备份
 
 ---start---
-## 目录(2024年08月11日更新)
+## 目录 (2024年08月11日更新)
 [测试新脚本是否能正常处理文件名中的 空格 这是front matter内的标题](https://blogs.qudange.top/p/%e6%b5%8b%e8%af%95%e6%96%b0%e8%84%9a%e6%9c%ac%e6%98%af%e5%90%a6%e8%83%bd%e6%ad%a3%e5%b8%b8%e5%a4%84%e7%90%86%e6%96%87%e4%bb%b6%e5%90%8d%e4%b8%ad%e7%9a%84%20%e7%a9%ba%e6%a0%bc/)
 
 [Obsidian tar插件实现obsidian内部集成LLM对话](https://blogs.qudange.top/p/obsidian%20tar%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0obsidian%e5%86%85%e9%83%a8%e9%9b%86%e6%88%90llm%e5%af%b9%e8%af%9d/)
@@ -32,17 +32,15 @@
 
 [测试github2wordpress](https://blogs.qudange.top/p/2023-07-06-test/)
 
-[](https://blogs.qudange.top/p/%e8%8d%92%e5%8e%9f%e5%be%80%e4%ba%8b/)
-
 [Obsidian 实现复制时自动上传图片到图床](https://blogs.qudange.top/p/obsidian%20%e5%ae%9e%e7%8e%b0%e5%a4%8d%e5%88%b6%e6%97%b6%e8%87%aa%e5%8a%a8%e4%b8%8a%e4%bc%a0%e5%9b%be%e7%89%87%e5%88%b0%e5%9b%be%e5%ba%8a/)
 
 [Obsidian tar插件实现obsidian内部集成LLM对话](https://blogs.qudange.top/p/obsidian%20tar%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0obsidian%e5%86%85%e9%83%a8%e9%9b%86%e6%88%90llm%e5%af%b9%e8%af%9d/)
 
-[](https://blogs.qudange.top/p/2024-08-09/)
-
 [测试新脚本 子目录能否正常同步](https://blogs.qudange.top/p/%e6%b5%8b%e8%af%95%e6%96%b0%e8%84%9a%e6%9c%ac%20%e5%ad%90%e7%9b%ae%e5%bd%95%e8%83%bd%e5%90%a6%e6%ad%a3%e5%b8%b8%e5%90%8c%e6%ad%a5/)
 
 [测试新脚本 子目录能否正常同步](https://blogs.qudange.top/p/%e6%b5%8b%e8%af%95%e6%96%b0%e8%84%9a%e6%9c%ac%20%e5%ad%90%e7%9b%ae%e5%bd%95%e8%83%bd%e5%90%a6%e6%ad%a3%e5%b8%b8%e5%90%8c%e6%ad%a5%20%e6%b5%8b%e8%af%95/)
+
+[测试新脚本 子目录能否正常同步 2](https://blogs.qudange.top/p/%e6%b5%8b%e8%af%95%e6%96%b0%e8%84%9a%e6%9c%ac%20%e5%ad%90%e7%9b%ae%e5%bd%95%e8%83%bd%e5%90%a6%e6%ad%a3%e5%b8%b8%e5%90%8c%e6%ad%a5%20%e6%b5%8b%e8%af%95%203/)
 
 [测试新脚本 子目录能否正常同步 2](https://blogs.qudange.top/p/%e6%b5%8b%e8%af%95%e6%96%b0%e8%84%9a%e6%9c%ac%20%e5%ad%90%e7%9b%ae%e5%bd%95%e8%83%bd%e5%90%a6%e6%ad%a3%e5%b8%b8%e5%90%8c%e6%ad%a5%20%e6%b5%8b%e8%af%95%202/)
 
