@@ -17,7 +17,7 @@ jobs:
           repository: dangehub/github2wp
           path: github2wp
           ref: main
-          token: ${{ secrets.ACCESS_TOKEN2 }}
+          token: ${{ secrets.ACCESS_TOKEN }}
   
           
       - name: Checkout b repo
