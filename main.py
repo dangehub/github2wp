@@ -127,14 +127,25 @@ def read_md(file_path):
     return (content, metadata)
 
 # 获取特定目录的markdown文件列表
+#def get_md_list(dir_path):
+#    md_list = []
+#    dirs = os.listdir(dir_path)
+#    for i in dirs:
+#        if os.path.splitext(i)[1] == ".md":   
+#            md_list.append(os.path.join(dir_path, i))
+#    print(md_list)
+#    return md_list
+
 def get_md_list(dir_path):
     md_list = []
-    dirs = os.listdir(dir_path)
-    for i in dirs:
-        if os.path.splitext(i)[1] == ".md":   
-            md_list.append(os.path.join(dir_path, i))
+    for root, _, files in os.walk(dir_path):
+        for file in files:
+            if file.endswith(".md"):
+                md_list.append(os.path.join(root, file))
     print(md_list)
     return md_list
+
+
 
 # 计算sha1
 def get_sha1(filename):
