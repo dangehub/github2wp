@@ -44,6 +44,8 @@
 
 [测试新脚本 子目录能否正常同步 2](https://blogs.qudange.top/p/%e6%b5%8b%e8%af%95%e6%96%b0%e8%84%9a%e6%9c%ac%20%e5%ad%90%e7%9b%ae%e5%bd%95%e8%83%bd%e5%90%a6%e6%ad%a3%e5%b8%b8%e5%90%8c%e6%ad%a5%20%e6%b5%8b%e8%af%95%202/)
 
+[再次测试模板](https://blogs.qudange.top/p/%e5%86%8d%e6%ac%a1%e6%b5%8b%e8%af%95%e9%a1%ba%e5%ba%8f%e9%97%ae%e9%a2%98/)
+
 ---end---
 ## 项目介绍
 
