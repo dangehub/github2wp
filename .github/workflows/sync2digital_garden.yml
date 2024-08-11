@@ -30,7 +30,7 @@ jobs:
           
       - name: Copy files from a to b local
         run: |
-          cp -r github2wp/_posts/* qlog/src/site/note/       
+          cp -r github2wp/_posts/* qlog/src/site/notes/       
 
       - name: Commit and push
         run: |
