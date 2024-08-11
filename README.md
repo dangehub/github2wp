@@ -1,7 +1,9 @@
 # 曲宝的博客备份
 
 ---start---
-## 目录(2024年08月07日更新)
+## 目录(2024年08月11日更新)
+[Obsidian 实现复制时自动上传图片到图床](https://blogs.qudange.top/p/2024-08-11-obsidian-pic-upload/)
+
 [用 n8n 实现三步翻译](https://blogs.qudange.top/p/2024-08-07-n8n_3steps_translate/)
 
 [语音笔记AudioPen的“平替”](https://blogs.qudange.top/p/2024-07-16-audiopen-substitute/)
