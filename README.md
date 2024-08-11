@@ -2,45 +2,47 @@
 
 ---start---
 ## 目录(2024年08月11日更新)
-[测试新脚本是否能正常处理文件名中的 空格 这是front matter内的标题](https://blogs.qudange.top/p/%E6%B5%8B%E8%AF%95%E6%96%B0%E8%84%9A%E6%9C%AC%E6%98%AF%E5%90%A6%E8%83%BD%E6%AD%A3%E5%B8%B8%E5%A4%84%E7%90%86%E6%96%87%E4%BB%B6%E5%90%8D%E4%B8%AD%E7%9A%84%20%E7%A9%BA%E6%A0%BC%20%E8%BF%99%E6%98%AFfront%20matter%E5%86%85%E7%9A%84%E6%A0%87%E9%A2%98)
+[测试新脚本是否能正常处理文件名中的 空格 这是front matter内的标题](https://blogs.qudange.top/p/%e6%b5%8b%e8%af%95%e6%96%b0%e8%84%9a%e6%9c%ac%e6%98%af%e5%90%a6%e8%83%bd%e6%ad%a3%e5%b8%b8%e5%a4%84%e7%90%86%e6%96%87%e4%bb%b6%e5%90%8d%e4%b8%ad%e7%9a%84%20%e7%a9%ba%e6%a0%bc/)
 
-[Obsidian tar插件实现obsidian内部集成LLM对话](https://blogs.qudange.top/p/Obsidian%20tar%E6%8F%92%E4%BB%B6%E5%AE%9E%E7%8E%B0obsidian%E5%86%85%E9%83%A8%E9%9B%86%E6%88%90LLM%E5%AF%B9%E8%AF%9D)
+[Obsidian tar插件实现obsidian内部集成LLM对话](https://blogs.qudange.top/p/obsidian%20tar%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0obsidian%e5%86%85%e9%83%a8%e9%9b%86%e6%88%90llm%e5%af%b9%e8%af%9d/)
 
-[Obsidian 实现复制时自动上传图片到图床](https://blogs.qudange.top/p/Obsidian%20%E5%AE%9E%E7%8E%B0%E5%A4%8D%E5%88%B6%E6%97%B6%E8%87%AA%E5%8A%A8%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87%E5%88%B0%E5%9B%BE%E5%BA%8A)
+[Obsidian 实现复制时自动上传图片到图床](https://blogs.qudange.top/p/2024-08-11-obsidian-pic-upload/)
 
-[用 n8n 实现三步翻译](https://blogs.qudange.top/p/%E7%94%A8%20n8n%20%E5%AE%9E%E7%8E%B0%E4%B8%89%E6%AD%A5%E7%BF%BB%E8%AF%91)
+[用 n8n 实现三步翻译](https://blogs.qudange.top/p/2024-08-07-n8n_3steps_translate/)
 
-[语音笔记AudioPen的“平替”](https://blogs.qudange.top/p/%E8%AF%AD%E9%9F%B3%E7%AC%94%E8%AE%B0AudioPen%E7%9A%84%E2%80%9C%E5%B9%B3%E6%9B%BF%E2%80%9D)
+[语音笔记AudioPen的“平替”](https://blogs.qudange.top/p/2024-07-16-audiopen-substitute/)
 
-[AudioPen：让Ai帮你整理碎碎念，语音转书面化文字的利器](https://blogs.qudange.top/p/AudioPen%EF%BC%9A%E8%AE%A9Ai%E5%B8%AE%E4%BD%A0%E6%95%B4%E7%90%86%E7%A2%8E%E7%A2%8E%E5%BF%B5%EF%BC%8C%E8%AF%AD%E9%9F%B3%E8%BD%AC%E4%B9%A6%E9%9D%A2%E5%8C%96%E6%96%87%E5%AD%97%E7%9A%84%E5%88%A9%E5%99%A8)
+[AudioPen：让Ai帮你整理碎碎念，语音转书面化文字的利器](https://blogs.qudange.top/p/2024-07-15-audiopen/)
 
-[obcsapi —— 最好的obsidian工具（需要云部署）](https://blogs.qudange.top/p/obcsapi%20%E2%80%94%E2%80%94%20%E6%9C%80%E5%A5%BD%E7%9A%84obsidian%E5%B7%A5%E5%85%B7%EF%BC%88%E9%9C%80%E8%A6%81%E4%BA%91%E9%83%A8%E7%BD%B2%EF%BC%89)
+[obcsapi —— 最好的obsidian工具（需要云部署）](https://blogs.qudange.top/p/2024-07-14-obcsapi/)
 
-[安卓透明代理，上手 box for magisk](https://blogs.qudange.top/p/%E5%AE%89%E5%8D%93%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86%EF%BC%8C%E4%B8%8A%E6%89%8B%20box%20for%20magisk)
+[安卓透明代理，上手 box for magisk](https://blogs.qudange.top/p/2024-07-14-box-for-magisk/)
 
-[如何下载网易云音乐的普通歌词与双语歌词](https://blogs.qudange.top/p/%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BD%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%9A%84%E6%99%AE%E9%80%9A%E6%AD%8C%E8%AF%8D%E4%B8%8E%E5%8F%8C%E8%AF%AD%E6%AD%8C%E8%AF%8D)
+[如何下载网易云音乐的普通歌词与双语歌词](https://blogs.qudange.top/p/2024-07-13-how-to-download-the-lyrics/)
 
-[安卓端用tasker实现ai总结b站](https://blogs.qudange.top/p/%E5%AE%89%E5%8D%93%E7%AB%AF%E7%94%A8tasker%E5%AE%9E%E7%8E%B0ai%E6%80%BB%E7%BB%93b%E7%AB%99)
+[安卓端用tasker实现ai总结b站](https://blogs.qudange.top/p/2024-07-13-android_tasker_ai_summary/)
 
-[wordpress导入rss以同步全平台](https://blogs.qudange.top/p/wordpress%E5%AF%BC%E5%85%A5rss%E4%BB%A5%E5%90%8C%E6%AD%A5%E5%85%A8%E5%B9%B3%E5%8F%B0)
+[wordpress导入rss以同步全平台](https://blogs.qudange.top/p/2024-04-23-wordpress%e5%af%bc%e5%85%a5rss%e4%bb%a5%e5%90%8c%e6%ad%a5%e5%85%a8%e5%b9%b3%e5%8f%b0/)
 
-[标题](https://blogs.qudange.top/p/%E6%A0%87%E9%A2%98)
+[标题](https://blogs.qudange.top/p/2024-04-23-1/)
 
-[三星浏览器调教记录](https://blogs.qudange.top/p/%E4%B8%89%E6%98%9F%E6%B5%8F%E8%A7%88%E5%99%A8%E8%B0%83%E6%95%99%E8%AE%B0%E5%BD%95)
+[三星浏览器调教记录](https://blogs.qudange.top/p/2024-04-01-samsung/)
 
-[安卓使用 Thanox 实现安装新应用自动加入 Magisk 的 Denylist（Shamiko 实现）](https://blogs.qudange.top/p/%E5%AE%89%E5%8D%93%E4%BD%BF%E7%94%A8%20Thanox%20%E5%AE%9E%E7%8E%B0%E5%AE%89%E8%A3%85%E6%96%B0%E5%BA%94%E7%94%A8%E8%87%AA%E5%8A%A8%E5%8A%A0%E5%85%A5%20Magisk%20%E7%9A%84%20Denylist%EF%BC%88Shamiko%20%E5%AE%9E%E7%8E%B0%EF%BC%89)
+[安卓使用 Thanox 实现安装新应用自动加入 Magisk 的 Denylist（Shamiko 实现）](https://blogs.qudange.top/p/2023-07-07-magisk/)
 
-[测试github2wordpress](https://blogs.qudange.top/p/%E6%B5%8B%E8%AF%95github2wordpress)
+[测试github2wordpress](https://blogs.qudange.top/p/2023-07-06-test/)
 
-[](https://blogs.qudange.top/p/)
+[](https://blogs.qudange.top/p/%e8%8d%92%e5%8e%9f%e5%be%80%e4%ba%8b/)
 
-[Obsidian 实现复制时自动上传图片到图床](https://blogs.qudange.top/p/Obsidian%20%E5%AE%9E%E7%8E%B0%E5%A4%8D%E5%88%B6%E6%97%B6%E8%87%AA%E5%8A%A8%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87%E5%88%B0%E5%9B%BE%E5%BA%8A)
+[Obsidian 实现复制时自动上传图片到图床](https://blogs.qudange.top/p/obsidian%20%e5%ae%9e%e7%8e%b0%e5%a4%8d%e5%88%b6%e6%97%b6%e8%87%aa%e5%8a%a8%e4%b8%8a%e4%bc%a0%e5%9b%be%e7%89%87%e5%88%b0%e5%9b%be%e5%ba%8a/)
 
-[Obsidian tar插件实现obsidian内部集成LLM对话](https://blogs.qudange.top/p/Obsidian%20tar%E6%8F%92%E4%BB%B6%E5%AE%9E%E7%8E%B0obsidian%E5%86%85%E9%83%A8%E9%9B%86%E6%88%90LLM%E5%AF%B9%E8%AF%9D)
+[Obsidian tar插件实现obsidian内部集成LLM对话](https://blogs.qudange.top/p/obsidian%20tar%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0obsidian%e5%86%85%e9%83%a8%e9%9b%86%e6%88%90llm%e5%af%b9%e8%af%9d/)
 
-[](https://blogs.qudange.top/p/)
+[](https://blogs.qudange.top/p/2024-08-09/)
 
-[测试新脚本 子目录能否正常同步](https://blogs.qudange.top/p/%E6%B5%8B%E8%AF%95%E6%96%B0%E8%84%9A%E6%9C%AC%20%E5%AD%90%E7%9B%AE%E5%BD%95%E8%83%BD%E5%90%A6%E6%AD%A3%E5%B8%B8%E5%90%8C%E6%AD%A5)
+[测试新脚本 子目录能否正常同步](https://blogs.qudange.top/p/%e6%b5%8b%e8%af%95%e6%96%b0%e8%84%9a%e6%9c%ac%20%e5%ad%90%e7%9b%ae%e5%bd%95%e8%83%bd%e5%90%a6%e6%ad%a3%e5%b8%b8%e5%90%8c%e6%ad%a5/)
+
+[测试新脚本 子目录能否正常同步](https://blogs.qudange.top/p/%e6%b5%8b%e8%af%95%e6%96%b0%e8%84%9a%e6%9c%ac%20%e5%ad%90%e7%9b%ae%e5%bd%95%e8%83%bd%e5%90%a6%e6%ad%a3%e5%b8%b8%e5%90%8c%e6%ad%a5%20%e6%b5%8b%e8%af%95/)
 
 ---end---
 ## 项目介绍
