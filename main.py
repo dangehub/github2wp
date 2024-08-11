@@ -202,6 +202,7 @@ def href_info(link):
     return "<br/><br/><br/>\n\n\n\n## 本文永久更新地址: \n[" + link + "](" + link + ")"
 
 # 在README.md中插入信息文章索引信息，更容易获取google的收录
+
 def insert_index_info_in_readme():
     # 获取_posts下所有markdown文件
     md_list = get_md_list(os.path.join(os.getcwd(), "_posts"))
@@ -212,25 +213,27 @@ def insert_index_info_in_readme():
     for md in md_list:
         (content, metadata) = read_md(md)
         title = metadata.get("title", "")
-        insert_info = insert_info + "[" + title +"](" + "https://"+domain_name + "/p/" + os.path.basename(md).split(".")[0] +"/" + ")\n\n"
+        # 对标题进行 URL 编码
+        encoded_title = urllib.parse.quote(title, safe='')
+        insert_info += f"[{title}](https://{domain_name}/p/{encoded_title})\n\n"
     # 替换 ---start--- 到 ---end--- 之间的内容
-
-    insert_info = "---start---\n## 目录(" + time.strftime('%Y年%m月%d日') + "更新)" +"\n" + insert_info + "---end---"
+    insert_info = "---start---\n## 目录(" + time.strftime('%Y年%m月%d日') + "更新)" + "\n" + insert_info + "---end---"
 
     # 获取README.md内容
-    with open (os.path.join(os.getcwd(), "README.md"), 'r', encoding='utf-8') as f:
+    with open(os.path.join(os.getcwd(), "README.md"), 'r', encoding='utf-8') as f:
         readme_md_content = f.read()
 
     print(insert_info)
 
     new_readme_md_content = re.sub(r'---start---(.|\n)*---end---', insert_info, readme_md_content)
 
-    with open (os.path.join(os.getcwd(), "README.md"), 'w', encoding='utf-8') as f:
+    with open(os.path.join(os.getcwd(), "README.md"), 'w', encoding='utf-8') as f:
         f.write(new_readme_md_content)
 
     print("==new_readme_md_content==>>", new_readme_md_content)
 
     return True
+
 
 def main():
     # 1. 获取网站数据库中已有的文章列表
