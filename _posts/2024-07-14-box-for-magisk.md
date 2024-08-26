@@ -1,5 +1,4 @@
 ---
-share: true
 title: 安卓透明代理，上手 box for magisk
 tags:
   - geek

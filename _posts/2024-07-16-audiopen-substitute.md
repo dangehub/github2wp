@@ -1,5 +1,4 @@
 ---
-share: true
 title: 语音笔记AudioPen的“平替”
 git_title: 2024-07-16-audiopen-substitute
 tags:

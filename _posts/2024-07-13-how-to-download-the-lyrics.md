@@ -1,5 +1,4 @@
 ---
-share: true
 title: 如何下载网易云音乐的普通歌词与双语歌词
 git_title: 2024-07-13-how-to-download-the-lyrics
 tags:

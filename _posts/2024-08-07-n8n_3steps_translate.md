@@ -1,5 +1,4 @@
 ---
-share: true
 title: 用 n8n 实现三步翻译
 git_title: 2024-08-07-n8n_3steps_translate
 tags:

@@ -1,5 +1,4 @@
 ---
-share: true
 title: 安卓端用tasker实现ai总结b站
 git_title: 2024-07-13-android_tasker_ai_summary
 tags:

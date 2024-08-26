@@ -1,5 +1,4 @@
 ---
-share: true 
 title: wordpress导入rss以同步全平台
 git_title: 2024-04-23-wordpress导入rss以同步全平台
 tags: 
