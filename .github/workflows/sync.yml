@@ -30,7 +30,7 @@ jobs:
           
       - name: Copy files from a to b local
         run: |
-          cp -r github2wp/_posts/* dangehub.github.io/_posts/       
+          cp -r github2wp/_posts/* dangehub.github.io/content/posts/      
 
       - name: Commit and push
         run: |
