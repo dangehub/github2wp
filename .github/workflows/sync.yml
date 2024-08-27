@@ -25,7 +25,7 @@ jobs:
         with:
           repository: dangehub/dangehub.github.io
           path: dangehub.github.io
-          ref: master
+          ref: main
           token: ${{ secrets.ACCESS_TOKEN }}
           
       - name: Copy files from a to b local
