@@ -1,7 +1,7 @@
 # 曲宝的博客备份
 
 ---start---
-## 目录 (2024年08月27日更新)
+## 目录 (2024年09月07日更新)
 [测试在根目录下能否正常倒序显示文章](https://blogs.qudange.top/p/%e6%b5%8b%e8%af%95%e5%9c%a8%e6%a0%b9%e7%9b%ae%e5%bd%95%e4%b8%8b%e8%83%bd%e5%90%a6%e6%ad%a3%e5%b8%b8%e5%80%92%e5%ba%8f%e6%98%be%e7%a4%ba%e6%96%87%e7%ab%a0/)
 
 [Obsidian 实现复制时自动上传图片到图床](https://blogs.qudange.top/p/2024-08-11-obsidian-pic-upload/)
@@ -27,6 +27,8 @@
 [安卓使用 Thanox 实现安装新应用自动加入 Magisk 的 Denylist（Shamiko 实现）](https://blogs.qudange.top/p/2023-07-07-magisk/)
 
 [测试github2wordpress](https://blogs.qudange.top/p/2023-07-06-test/)
+
+[一键把excalidraw的头脑风暴输出为线性文章](https://blogs.qudange.top/p/%e4%b8%80%e9%94%ae%e6%8a%8aexcalidraw%e7%9a%84%e5%a4%b4%e8%84%91%e9%a3%8e%e6%9a%b4%e8%be%93%e5%87%ba%e4%b8%ba%e7%ba%bf%e6%80%a7%e6%96%87%e7%ab%a0/)
 
 [obsidian发布的探索](https://blogs.qudange.top/p/obsidian%e5%8f%91%e5%b8%83%e7%9a%84%e6%8e%a2%e7%b4%a2/)
 
