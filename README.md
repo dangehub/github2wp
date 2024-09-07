@@ -36,8 +36,6 @@
 
 [Obsidian tar插件实现obsidian内部集成LLM对话](https://blogs.qudange.top/p/obsidian%20tar%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0obsidian%e5%86%85%e9%83%a8%e9%9b%86%e6%88%90llm%e5%af%b9%e8%af%9d/)
 
-[这是一篇用于测试笔记流程是否完善的笔记](https://blogs.qudange.top/p/%e8%bf%99%e6%98%af%e4%b8%80%e7%af%87%e7%94%a8%e4%ba%8e%e6%b5%8b%e8%af%95%e7%ac%94%e8%ae%b0%e6%b5%81%e7%a8%8b%e6%98%af%e5%90%a6%e5%ae%8c%e5%96%84%e7%9a%84%e7%ac%94%e8%ae%b0/)
-
 ---end---
 ## 项目介绍
 
