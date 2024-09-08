@@ -4,6 +4,8 @@
 ## 目录 (2024年09月08日更新)
 [测试在根目录下能否正常倒序显示文章](https://blogs.qudange.top/p/%e6%b5%8b%e8%af%95%e5%9c%a8%e6%a0%b9%e7%9b%ae%e5%bd%95%e4%b8%8b%e8%83%bd%e5%90%a6%e6%ad%a3%e5%b8%b8%e5%80%92%e5%ba%8f%e6%98%be%e7%a4%ba%e6%96%87%e7%ab%a0/)
 
+[荒原往事](https://blogs.qudange.top/p/readme/)
+
 [Obsidian 实现复制时自动上传图片到图床](https://blogs.qudange.top/p/2024-08-11-obsidian-pic-upload/)
 
 [用 n8n 实现三步翻译](https://blogs.qudange.top/p/2024-08-07-n8n_3steps_translate/)
