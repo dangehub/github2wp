@@ -36,14 +36,6 @@
 
 [Obsidian tar插件实现obsidian内部集成LLM对话](https://blogs.qudange.top/p/obsidian%20tar%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0obsidian%e5%86%85%e9%83%a8%e9%9b%86%e6%88%90llm%e5%af%b9%e8%af%9d/)
 
-[obsidian发布的探索](https://blogs.qudange.top/p/obsidian%e5%8f%91%e5%b8%83%e7%9a%84%e6%8e%a2%e7%b4%a2/)
-
-[Obsidian 实现复制时自动上传图片到图床](https://blogs.qudange.top/p/obsidian%20%e5%ae%9e%e7%8e%b0%e5%a4%8d%e5%88%b6%e6%97%b6%e8%87%aa%e5%8a%a8%e4%b8%8a%e4%bc%a0%e5%9b%be%e7%89%87%e5%88%b0%e5%9b%be%e5%ba%8a/)
-
-[Obsidian tar插件实现obsidian内部集成LLM对话](https://blogs.qudange.top/p/obsidian%20tar%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0obsidian%e5%86%85%e9%83%a8%e9%9b%86%e6%88%90llm%e5%af%b9%e8%af%9d/)
-
-[这是一篇用于测试笔记流程是否完善的笔记](https://blogs.qudange.top/p/%e8%bf%99%e6%98%af%e4%b8%80%e7%af%87%e7%94%a8%e4%ba%8e%e6%b5%8b%e8%af%95%e7%ac%94%e8%ae%b0%e6%b5%81%e7%a8%8b%e6%98%af%e5%90%a6%e5%ae%8c%e5%96%84%e7%9a%84%e7%ac%94%e8%ae%b0/)
-
 [这是一篇用于测试笔记流程是否完善的笔记](https://blogs.qudange.top/p/%e8%bf%99%e6%98%af%e4%b8%80%e7%af%87%e7%94%a8%e4%ba%8e%e6%b5%8b%e8%af%95%e7%ac%94%e8%ae%b0%e6%b5%81%e7%a8%8b%e6%98%af%e5%90%a6%e5%ae%8c%e5%96%84%e7%9a%84%e7%ac%94%e8%ae%b0/)
 
 ---end---
